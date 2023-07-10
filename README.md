@@ -15,7 +15,7 @@
 <img width="80%" src="https://user-images.githubusercontent.com/102461290/252265014-413681e1-62cc-4fa8-883c-0e8252babf66.png"/>
 
 # 주요 기능
-<img width="80%" src="https://user-images.githubusercontent.com/102461290/252265115-c1b27619-ce2f-42ef-880a-6eb3e57aa257.png" style="width:700px;500px;"/> | <img width="80%" src="https://user-images.githubusercontent.com/102461290/252265254-224a1b49-6196-45a8-bb16-a4318f8ea6fd.png"/> | <img width="80%" src="https://user-images.githubusercontent.com/102461290/252265400-5312131e-94b3-453a-b87a-fb4eaea7cde3.png"/> | <img width="80%" src="https://user-images.githubusercontent.com/102461290/252265455-7036fae7-cde1-42ef-bf1a-f8e8ff7c273d.png"/> | <img width="80%" src="https://user-images.githubusercontent.com/102461290/252265509-981f2213-59c3-48af-b8f8-81556e199c71.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/102461290/252265115-c1b27619-ce2f-42ef-880a-6eb3e57aa257.png" style="width:700px;500px;"/> | <img width="80%" src="https://user-images.githubusercontent.com/102461290/252265254-224a1b49-6196-45a8-bb16-a4318f8ea6fd.png" style="width:700px;500px;"/> | <img width="80%" src="https://user-images.githubusercontent.com/102461290/252265400-5312131e-94b3-453a-b87a-fb4eaea7cde3.png" style="width:700px;500px;"/> | <img width="80%" src="https://user-images.githubusercontent.com/102461290/252265455-7036fae7-cde1-42ef-bf1a-f8e8ff7c273d.png" style="width:700px;500px;"/> | <img width="80%" src="https://user-images.githubusercontent.com/102461290/252265509-981f2213-59c3-48af-b8f8-81556e199c71.png" style="width:700px;500px;"/>
 
 # 프로젝트 아키텍처 
 
