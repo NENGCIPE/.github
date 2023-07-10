@@ -23,7 +23,7 @@
 
 # 개발 과정 / 협업 방법
 - 노션과 구글미트 or 대면 회의 활용, 주 2회(전체회의, 포지션 별 회의 진행)
-<img width="80%" src="https://user-images.githubusercontent.com/102461290/252268530-8e09df2f-5e3e-40fb-b5d5-ec68f437f37a.png"  style="width:700px;500px;"/>
-<img width="80%" src="https://user-images.githubusercontent.com/102461290/252268854-a6328873-a779-4d45-846e-cfec1ab042f1.png"  style="width:700px;500px;"/>
+<img width="80%" src="https://user-images.githubusercontent.com/102461290/252268530-8e09df2f-5e3e-40fb-b5d5-ec68f437f37a.png"  style="width:600px;300px;"/>
+<img width="80%" src="https://user-images.githubusercontent.com/102461290/252268854-a6328873-a779-4d45-846e-cfec1ab042f1.png"  style="width:600px;300px;"/>
 
 # 시연 영상
